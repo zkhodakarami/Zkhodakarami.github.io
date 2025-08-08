@@ -1,0 +1,66 @@
+site_name: Darius — CS PhD @ MSU
+site_description: Research in NLP, LLMs, and neuro-symbolic reasoning
+site_url: https://dariusnafar.github.io
+repo_url: https://github.com/DariusNafar/DariusNafar.github.io
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.instant
+    - content.code.copy
+  favicon: assets/favicon.svg
+
+nav:
+  - Home: index.md
+  - Research: research.md
+  - Publications: publications.md
+  - Projects: projects.md
+  - Teaching: teaching.md
+  - Service: service.md
+  - Blog: blog/index.md
+  - CV: cv.md
+  - Contact: contact.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - footnotes
+  - attr_list
+  - def_list
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/DariusNafar
+      name: GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/aliakbar-nafar-3a591843/
+      name: LinkedIn
+    - icon: simple/google-scholar
+      link: https://scholar.google.com/citations?user=RnsQD44AAAAJ&hl=en
+      name: Google Scholar
+  meta:
+    - name: description
+      content: Research in NLP, LLMs, and neuro-symbolic reasoning by Darius (CS PhD @ MSU)
+    - property: og:title
+      content: Darius — CS PhD @ MSU
+    - property: og:description
+      content: Research in NLP, LLMs, and neuro-symbolic reasoning
+    - property: og:type
+      content: website
+    - property: og:url
+      content: https://dariusnafar.github.io
+    - property: og:image
+      content: assets/social-card.svg
+    - name: twitter:card
+      content: summary_large_image
+    - name: twitter:title
+      content: Darius — CS PhD @ MSU
+    - name: twitter:description
+      content: Research in NLP, LLMs, and neuro-symbolic reasoning
+    - name: twitter:image
+      content: assets/social-card.svg
+
+plugins:
+  - search
