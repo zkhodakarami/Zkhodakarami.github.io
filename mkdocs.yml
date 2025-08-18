@@ -11,7 +11,7 @@ nav:
   - Research: research.md
   - Publications: publications.md
   - Work Experience: work.md
-  - Contact: contact.md
+  - Talks & Presentations: talks.md
 
 markdown_extensions:
   - admonition
@@ -44,7 +44,7 @@ extra:
     - property: og:url
       content: https://dariusnafar.github.io
     - property: og:image
-      content: assets/social-card.svg
+      content: /assets/social-card.svg
     - name: twitter:card
       content: summary_large_image
     - name: twitter:title
@@ -52,7 +52,7 @@ extra:
     - name: twitter:description
       content: Research in NLP, LLMs, and neuro-symbolic reasoning
     - name: twitter:image
-      content: assets/social-card.svg
+      content: /assets/social-card.svg
 
 extra_css:
   - assets/overrides.css
