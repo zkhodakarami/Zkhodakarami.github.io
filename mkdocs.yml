@@ -1,7 +1,7 @@
-site_name: Aliakbar Nafar (Darius)
-site_description: Research in NLP, LLMs, and neuro-symbolic reasoning
-site_url: https://dariusnafar.github.io
-repo_url: https://github.com/DariusNafar/DariusNafar.github.io
+site_name: Zahra Khodakarami
+site_description: Research and projects
+site_url: https://Zkhodakarami.github.io
+repo_url: https://github.com/Zkhodakarami/Zkhodakarami.github.io
 theme:
   name: null
   custom_dir: 'cinder'
@@ -11,7 +11,7 @@ nav:
   - Research: research.md
   - Publications: publications.md
   - Work Experience: work.md
-  - Talks & Presentations: talks.md
+  - Leadership & Mentorship: talks.md
 
 markdown_extensions:
   - admonition
@@ -24,33 +24,36 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/DariusNafar
+      link: https://github.com/Zkhodakarami
       name: GitHub
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/anafar/
+      link: https://www.linkedin.com/in/khodakarami
       name: LinkedIn
     - icon: simple/googlescholar
-      link: https://scholar.google.com/citations?user=RnsQD44AAAAJ&hl=en
+      link: https://scholar.google.com/citations?user=aXrProgAAAAJ&hl=en
       name: Google Scholar
+    - icon: fontawesome/brands/twitter
+      link: https://x.com/khodakaramim
+      name: X
   meta:
     - name: description
-      content: Research in NLP, LLMs, and neuro-symbolic reasoning by Darius (CS PhD @ MSU)
+      content: Research and projects by Zahra Khodakarami
     - property: og:title
-      content: Darius — CS PhD @ MSU
+      content: Zahra Khodakarami
     - property: og:description
-      content: Research in NLP, LLMs, and neuro-symbolic reasoning
+      content: Research and projects
     - property: og:type
       content: website
     - property: og:url
-      content: https://dariusnafar.github.io
+      content: https://Zkhodakarami.github.io
     - property: og:image
       content: /assets/social-card.svg
     - name: twitter:card
       content: summary_large_image
     - name: twitter:title
-      content: Darius — CS PhD @ MSU
+      content: Zahra Khodakarami
     - name: twitter:description
-      content: Research in NLP, LLMs, and neuro-symbolic reasoning
+      content: Research and projects
     - name: twitter:image
       content: /assets/social-card.svg
 

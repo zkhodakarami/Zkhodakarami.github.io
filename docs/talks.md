@@ -1,46 +1,26 @@
-# Talks & Presentations
+# Leadership & Mentorship
 
-A selection of invited talks and conference presentations. Materials (slides, paper, code, video) and photo galleries are linked under each entry.
+### Deputy Director — Inter-school Partnership Fund (IPF)
+> Aug 2024 – Present | Graduate and Professional Student Assembly (GAPSA), University of Pennsylvania
 
+- Executive role within GAPSA overseeing IPF.
+- Screened and approved IPF applications, ensuring eligibility and coordinating grant payouts to qualifying schools.
 
-### 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics
-- **Title:** Learning vs Retrieval: The Role of In-Context Examples in Regression with LLMs*
-- **Event:** [NAACL 2025](https://2025.naacl.org/) 
-- **Type:** Oral *([Outstanding Paper Award ](https://2025.naacl.org/blog/best-papers/)🏆)*
-- **Date & Place:** April 29 – May 4, 2025 | Albuquerque, New Mexico, USA
+### Summer Student Mentor
+> May 2025 – Present
 
-<div class="gallery-slider" aria-label="NAACL 2025 photo gallery" tabindex="0">
-  <img src="/assets/NAACL1.jpg" alt="NAACL 2025 — volunteering">
-  <img src="/assets/NAACL2.jpg" alt="NAACL 2025 — people attending">
-  <img src="/assets/NAACL3.jpg" alt="NAACL 2025 — presentation">
-</div>
+- Mentored a master’s student on automatic detection of different cell types from gigapixel histology slides; achieved 90% accuracy to date.
 
----
+### Graduate Applicant Application Mentor
+> Oct 2023 – Apr 2025
 
-### The 39th Annual AAAI Conference on Artificial Intelligence
-- **Title:** Reasoning over Uncertain Text by Generative Large Language Models
-- **Event:** [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)
-- **Type:** Oral
-- **Date & Place:** February 25 – March 4, 2025 | Philadelphia, Pennsylvania, USA
+- Mentored an applicant (Parsa Parirokh) who received admission to Bioengineering at Stanford and UPenn; joined UPenn in Fall 2025.
 
-<div class="gallery-slider" aria-label="AAAI 2025 photo gallery" tabindex="0">
-  <img src="/assets/AAAI1.jpg" alt="AAAI 2025 — presentation">
-</div>
+### Workshop Organizer — DEMON Network
+> Apr 2022 – Apr 2023
 
----
-
-### Midwest Speech and Language Days 2025
-- **Title:** Extracting Probabilistic Knowledge from Large Language Models for Bayesian Network Parameterization
-- **Event:** [MSLD 2025](https://nlp.nd.edu/msld25/)
-- **Type:** Poster
-- **Date & Place:** April 15–16, 2025 | Notre Dame, Indiana, USA
-
-
-<div class="gallery-slider" aria-label="MSLD 2025 photo gallery" tabindex="0">
-  <img src="/assets/MSLD1.jpg" alt="MSLD 2025 — poster presentation">
-</div>
-
----
+- Organized and moderated a 2-day DEMON Network workshop “AI for Neuroimaging & Big-Data Dementia Research” for early-career researchers.
+- Secured 6 of 10 expert speakers, including FreeSurfer lead Dr. Martin Reuter.
 
 
 
