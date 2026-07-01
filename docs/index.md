@@ -7,5 +7,6 @@ An inspiring entrepreneur PhD candidate in medical image processing and deep lea
 
 ## Current Projects
 
-- Quantifying Myelin Loss in Histology and Linking it to White Matter Hyperintensities in MRI (Jun 2024 – Present)
-- Longitudinal Neuroimaging Abnormality Tracker [in development] (Jan 2025 – Present)
+- Quantifying Myelin Loss in Histology and Transferring Myelin-Loss Maps to In Vivo MRI Space (Jun 2024 – Present)
+- Longitudinal Neuroimaging Abnormality Tracker — app in development (Jan 2025 – Present)
+- Super-Resolution of FLAIR MRI and Its Effect on WMH Segmentation [in development] (2026 – Present)
