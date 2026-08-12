@@ -1,8 +1,12 @@
 # Publications and Peer-reviewed Abstracts
 
+## Conference & Workshop Papers
+
+- Zahra Khodakarami, et al. Automated Optical Density Normalization for Myelin Quantification: Cross-Modal Validation with 7T Ex Vivo MRI. **MICCAI 2026** — selected for an **oral presentation** in the main conference (top 9% of 4,601 submissions). [Preprint](https://arxiv.org/abs/2605.08711)
+- Zahra Khodakarami, et al. Does FLAIR super-resolution erase or hallucinate small white-matter lesions? 11th International Workshop on Simulation and Synthesis in Medical Imaging (**SASHIMI 2026**), held in conjunction with MICCAI 2026. [Preprint](https://arxiv.org/abs/2608.06311)
+
 ## Journal Articles & Preprints
 
-- Zahra Khodakarami, et al. Automated Optical Density Normalization for Myelin Quantification: Cross-Modal Validation with 7T Ex Vivo MRI. arXiv preprint, 2026. [Preprint](https://arxiv.org/abs/2605.08711)
 - John L. Robinson, ..., Zahra Khodakarami, et al. Idiotypic-susceptible Alzheimer's disease: a clinically relevant, neurofibrillary tangle subtype. Acta Neuropathologica, 2026. [Paper Link](https://link.springer.com/article/10.1007/s00401-026-03013-6)
 - Z. Mahdavi, Zahra Khodakarami, et al. Med-VCD: Mitigating hallucination for medical large vision language models through visual contrastive decoding. Computers in Biology and Medicine, 2026. [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0010482525017019)
 - Shakiba Hooshi, Zahra Khodakarami, et al. AI-powered disease progression prediction in Multiple Sclerosis using Magnetic Resonance Imaging: A Systematic Review and Meta-Analysis. Neurological Research, 2026. [Paper Link](https://www.tandfonline.com/doi/abs/10.1080/01616412.2025.2532038)
