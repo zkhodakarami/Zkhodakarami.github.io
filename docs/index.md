@@ -13,5 +13,6 @@ An inspiring entrepreneur PhD candidate in medical image processing and deep lea
 
 ## Recent News
 
+- **Aug 2026** — Presented twice at the **Postmortem Research in Dementia** workshop at NYU Grossman School of Medicine: a power pitch and poster on automated myelin quantification, and a talk on regional amyloid clearance after aducanumab. [Photos and details](presentations.md)
 - **Aug 2026** — "Does FLAIR super-resolution erase or hallucinate small white-matter lesions?" accepted at **SASHIMI 2026**, in conjunction with MICCAI 2026. [Preprint](https://arxiv.org/abs/2608.06311)
 - **2026** — "Automated Optical Density Normalization for Myelin Quantification" selected for an **oral presentation** at the **MICCAI 2026** main conference (top 9% of 4,601 submissions). [Preprint](https://arxiv.org/abs/2605.08711)
